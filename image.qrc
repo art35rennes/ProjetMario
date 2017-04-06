@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="k8-16">ressources/k8-16.png</file>
+        <file alias="k20-6">ressources/k20-6.png</file>
+        <file alias="k40-6">ressources/k40-6.png</file>
+        <file alias="m6-25">ressources/mur6-25.png</file>
+        <file alias="m6-50">ressources/mur6-50.png</file>
+        <file alias="m12-25">ressources/mur12-25.png</file>
+        <file alias="m12-50">ressources/mur12-50.png</file>
+        <file alias="p8-8">ressources/p8-8.png</file>
+        <file alias="p20-6">ressources/p20-6.png</file>
+        <file alias="p40-6">ressources/p40-6.png</file>
+        <file alias="p80-6">ressources/p80-6.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file alias="level_0">ressources/map/level_0.txt</file>
+        <file alias="level_1">ressources/map/level_1.txt</file>
+        <file alias="level_2">ressources/map/level_2.txt</file>
+    </qresource>
+</RCC>
